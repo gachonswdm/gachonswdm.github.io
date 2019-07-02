@@ -12,7 +12,7 @@ Gachon Univ. Department Of Software '19 Project Github
 
 ## Member
 * [Woojin Wie](https://github.com/Woojin-Crive)
-* [Minjae Seon](https://github.com/darkhost)
+* [Minjae Seon](https://github.com/minjaeseon)
 * [Sangyeon Byeon](https://github.com/ji-a-kang)
 * [Jongseo Lee](https://github.com/JongssLee)
 * [Seonghoon Jeong](https://github.com/wooing1084)
